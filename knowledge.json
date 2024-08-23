@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "questions": "hi",
+      "answer": "hello there"
+    },
+    {
+      "questions": "how are you?",
+      "answer": "i am fine , thanks"
+    },
+    {
+      "questions": "can you tell me my name?",
+      "answer": "your name is Abdelrahman"
+    },
+    {
+      "questions": "what is my name",
+      "answer": "Abdelrahman"
+    },
+    {
+      "questions": "my name?",
+      "answer": "Abdelrahman"
+    },
+    {
+      "questions": "thanks",
+      "answer": "your welcome mate"
+    }
+  ]
+}
